@@ -1,6 +1,9 @@
 # mvc_proje
 
-Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+Bağlantı: 
+Youtube Kanalı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+Video Linki: https://www.youtube.com/watch?v=o25aBm4Onfs&list=PLwhxgey9h6nByDWOKcFqmm3ydbHF-RvBN&index=46
+
 
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 
