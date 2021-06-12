@@ -22,4 +22,12 @@ https://github.com/emirandemir/mvc_proje/blob/main/yeni_mvc_uyg/yeni_mvc_uyg/Vie
 
 https://github.com/emirandemir/mvc_proje/blob/main/yeni_mvc_uyg/yeni_mvc_uyg/Startup.cs      // Yönlendirici oluşturmak için kullanılmış startup içindeki routing kodları
 
+Model kelimesi, veritabanından verilerin çekilmesine destek olur. Bu sayede verileri tek yerden kontrol etme imkanları bulunur. 
+View kelimesi, görünüm katmanı olur. Yani HTML, CSS ya da JavaScript gibi bazı kodların tutulduğu bölüm olur. 
+Controller kelimesi ise sistemin kontrol edildiği genel bölümdür. Burada model bölümünden verileri alıp, view dosyasına gönderir ardından view bölümünden de verileri listeledikten sonrasında kullanıcıya view dosyası şeklinde sunulur.
+
+
+
+
+
 Hazırlayan: Emirhan Demir
